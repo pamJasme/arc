@@ -1,1 +1,7 @@
-Directory for The Art of Readable Code Summary Reports
+Part I:
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
